@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MisDocs\\PROJECTS\\HELLO_WORLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DA2503-AD7F-43EC-A886-105BA7E31472}|HELLO_WORLD\\HELLO_WORLD.csproj|d:\\misdocs\\projects\\hello_world\\hello_world\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1DA2503-AD7F-43EC-A886-105BA7E31472}|HELLO_WORLD\\HELLO_WORLD.csproj|solutionrelative:hello_world\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DA2503-AD7F-43EC-A886-105BA7E31472}|HELLO_WORLD\\HELLO_WORLD.csproj|d:\\misdocs\\projects\\hello_world\\hello_world\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DA2503-AD7F-43EC-A886-105BA7E31472}|HELLO_WORLD\\HELLO_WORLD.csproj|solutionrelative:hello_world\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DA2503-AD7F-43EC-A886-105BA7E31472}|HELLO_WORLD\\HELLO_WORLD.csproj|d:\\misdocs\\projects\\hello_world\\hello_world\\models\\tiempos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DA2503-AD7F-43EC-A886-105BA7E31472}|HELLO_WORLD\\HELLO_WORLD.csproj|solutionrelative:hello_world\\models\\tiempos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DA2503-AD7F-43EC-A886-105BA7E31472}|HELLO_WORLD\\HELLO_WORLD.csproj|d:\\misdocs\\projects\\hello_world\\hello_world\\hello_world.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1DA2503-AD7F-43EC-A886-105BA7E31472}|HELLO_WORLD\\HELLO_WORLD.csproj|solutionrelative:hello_world\\hello_world.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1DA2503-AD7F-43EC-A886-105BA7E31472}|HELLO_WORLD\\HELLO_WORLD.csproj|d:\\misdocs\\projects\\hello_world\\hello_world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1DA2503-AD7F-43EC-A886-105BA7E31472}|HELLO_WORLD\\HELLO_WORLD.csproj|solutionrelative:hello_world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tiempos.cs",
+              "DocumentMoniker": "D:\\MisDocs\\PROJECTS\\HELLO_WORLD\\HELLO_WORLD\\Models\\Tiempos.cs",
+              "RelativeDocumentMoniker": "HELLO_WORLD\\Models\\Tiempos.cs",
+              "ToolTip": "D:\\MisDocs\\PROJECTS\\HELLO_WORLD\\HELLO_WORLD\\Models\\Tiempos.cs",
+              "RelativeToolTip": "HELLO_WORLD\\Models\\Tiempos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:24:23.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MisDocs\\PROJECTS\\HELLO_WORLD\\HELLO_WORLD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HELLO_WORLD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\MisDocs\\PROJECTS\\HELLO_WORLD\\HELLO_WORLD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HELLO_WORLD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T02:23:45.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MisDocs\\PROJECTS\\HELLO_WORLD\\HELLO_WORLD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HELLO_WORLD\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MisDocs\\PROJECTS\\HELLO_WORLD\\HELLO_WORLD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HELLO_WORLD\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:23:25.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HELLO_WORLD.csproj",
+              "DocumentMoniker": "D:\\MisDocs\\PROJECTS\\HELLO_WORLD\\HELLO_WORLD\\HELLO_WORLD.csproj",
+              "RelativeDocumentMoniker": "HELLO_WORLD\\HELLO_WORLD.csproj",
+              "ToolTip": "D:\\MisDocs\\PROJECTS\\HELLO_WORLD\\HELLO_WORLD\\HELLO_WORLD.csproj",
+              "RelativeToolTip": "HELLO_WORLD\\HELLO_WORLD.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-02T02:22:29.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MisDocs\\PROJECTS\\HELLO_WORLD\\HELLO_WORLD\\Program.cs",
+              "RelativeDocumentMoniker": "HELLO_WORLD\\Program.cs",
+              "ToolTip": "D:\\MisDocs\\PROJECTS\\HELLO_WORLD\\HELLO_WORLD\\Program.cs",
+              "RelativeToolTip": "HELLO_WORLD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:22:04.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
